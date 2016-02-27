@@ -1,0 +1,26 @@
+_repo: Wessex-Poems-and-Other-Verses_3167
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: Hardy's verse is spare, unadorned, and unromatic, and its pervasive theme
+  is man's futile struggle against cosmic forces. Like many of his novels, these 51
+  poems are set against the bleak and forbidding Dorset landscape, whose physical
+  harshness echoes that of an indifferent, if not malevolent, universe.
+gutenberg_issued: '2002-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+title: Wessex Poems and Other Verses
+url: http://www.gutenberg.org/ebooks/3167
